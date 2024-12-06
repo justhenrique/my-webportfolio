@@ -35,7 +35,6 @@ export const Container = styled.div`
       transition: all ease-in-out 0.2s;
       cursor: pointer;
       margin-bottom: 10px;
-      filter: drop-shadow(1px 1px 15px rgba(0, 0, 0, 0.6));
     }
 
     img:hover {
